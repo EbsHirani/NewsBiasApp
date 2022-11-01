@@ -8,9 +8,12 @@ We use JavaScript for the UI and Flask for the backend.<br />
 # Flow
 
 
-![alt text](https://github.com/EbsHirani/NewsBiasApp/blob/main/NewsBiasApp/images/flow.jpg)
-
+<img src="https://github.com/EbsHirani/NewsBiasApp/blob/main/NewsBiasApp/images/flow.jpg" alt="drawing" width="300"/><br/>
 # Screenshots
+<br />
+
 ![alt text](https://github.com/EbsHirani/NewsBiasApp/blob/main/NewsBiasApp/images/Screenshot%201.jpg)
+<br />
+
 ![alt text](https://github.com/EbsHirani/NewsBiasApp/blob/main/NewsBiasApp/images/Screenshot%202.jpg)
 
