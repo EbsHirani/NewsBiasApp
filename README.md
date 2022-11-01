@@ -7,7 +7,7 @@ We use JavaScript for the UI and Flask for the backend
 
 # Flow
 
-The flow of the project is shown in the image below:
+
 ![alt text](https://github.com/EbsHirani/NewsBiasApp/blob/main/NewsBiasApp/images/flow.jpg)
 
 # Screenshots
